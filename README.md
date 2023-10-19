@@ -20,10 +20,14 @@ The success of this project will be measured based on the following key paramete
 
 ## Resources
 
-Participants can make use of the following resources:
+### Project Board About GitHub Actions Basics
+
+This repo contains project board to walk your through GitHub Actions basics and warm you up for the hackathon
+
+### Participants can make use of the following resources:
 
 - [GitHub Copilot](https://copilot.github.com/)
-- [Project board in this repository](https://copilot.github.com/)
+- [Project board in this repository]([https://copilot.github.com/](https://github.com/users/tjsingh85/projects/7))
 - [GitHub documentation](https://docs.github.com/)
 - [GitHub Actions Importer](https://github.com/github/gh-actions-importer)
 - Coaches
