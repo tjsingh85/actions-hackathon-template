@@ -1,0 +1,17 @@
+name: Hello World
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository and list all files
+      uses: actions/checkout@v2
+      
+    - name: Hello world
+      run: |
+        echo Hello, world!
+        printenv
+        ls -la

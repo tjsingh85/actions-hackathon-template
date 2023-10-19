@@ -1,0 +1,14 @@
+{
+    "name": "hackathon",
+    "version": "1.0.0",
+    "description": "Node.js project for hackathon",
+    "main": "index.js",
+    "dependencies": {
+        "http": "*"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "ISC"
+}
